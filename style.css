@@ -1,0 +1,27 @@
+body {
+  margin: 5vw 10vw 0px 10vw;
+  font-size: 25px;
+  background-color: #97a97c;
+  color: black;
+
+}
+
+body * {
+  box-sizing: border-box;
+}
+
+input, button {
+  font-size: 1.5rem;
+}
+
+
+
+#pusheen{
+  width: 200px;
+  height: 200px;
+}
+
+#outputText {
+  background-color: #000;
+  padding: 2vmin;
+}
